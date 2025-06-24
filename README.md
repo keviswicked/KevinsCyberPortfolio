@@ -1,5 +1,3 @@
-   <h1>Kevin's Cybersecurity Portfolio</h1>
-  
   <section>
     <h2>Home Labs</h2>
     <div class="project-grid">
