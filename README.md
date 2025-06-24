@@ -1,6 +1,4 @@
-<body>
-  <header>
-    <h1>Kevin's Cybersecurity Portfolio</h1>
+  <h1>Kevin's Cybersecurity Portfolio</h1>
     <div class="contact-links">
       <a href="https://keviswicked.github.io/KevinCyberPortfolio/" target="_blank">GitHub</a>
       <a href="https://www.linkedin.com/in/kevin-h-574253360" target="_blank">LinkedIn</a>
