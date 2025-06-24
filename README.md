@@ -1,8 +1,5 @@
    <h1>Kevin's Cybersecurity Portfolio</h1>
-    <div class="contact-links">
-    </div>
-  </header>
-
+  
   <section>
     <h2>Home Labs</h2>
     <div class="project-grid">
