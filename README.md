@@ -1,4 +1,3 @@
-</head>
 <body>
   <header>
     <h1>Kevin's Cybersecurity Portfolio</h1>
