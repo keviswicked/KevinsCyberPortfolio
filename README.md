@@ -2,7 +2,6 @@
     <h1>Kevin's Cybersecurity Portfolio</h1>
     <div class="contact-links">
       <a href="https://www.linkedin.com/in/kevin-h-574253360" target="_blank">LinkedIn</a>
-      <a href="https://github.com/keviswicked/KevinCyberPortfolio/blob/main/Professional%20Resume.pdf" target="_blank">Resume</a>
     </div>
   </header>
 
