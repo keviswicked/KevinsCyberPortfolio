@@ -1,9 +1,13 @@
+<section>
+  <h2>All AWS Projects</h2>
+  <a href="https://learn.nextwork.org/encouraged_azure_smart_acerola/portfolio" target="_blank" class="project-link">View Projects</a>
   <section>
     <h2>Home Labs</h2>
     <div class="project-grid">
       <div class="project-card">
         <h3>Honeypot Lab</h3>
         <a href="https://github.com/keviswicked/KevinCyberPortfolio/blob/main/Ethical%20Hacking%20and%20Cybersecurity%20Coursework/Honeypot%20lab.pdf" target="_blank">View Project</a>
+</section>
       </div>
       <div class="project-card">
         <h3>Azure Directory Project</h3>
@@ -18,8 +22,6 @@
         <a href="https://github.com/keviswicked/KevinCyberPortfolio/blob/main/Ethical%20Hacking%20and%20Cybersecurity%20Coursework/Phishing%20Simulation%20Project.pdf" target="_blank">View Project</a>
       </div>
       <div class="project-card">
-        <h3>AWS Networking Basics</h3>
-        <a href="https://learn.nextwork.org/encouraged_azure_smart_acerola/portfolio" target="_blank">View Portfolio</a>
       </div>
       <div class="project-card">
         <h3>Google Cloud Chronicle SIEM</h3>
