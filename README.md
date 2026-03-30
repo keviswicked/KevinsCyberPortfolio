@@ -1,20 +1,49 @@
+ <h2>Help Desk Projects</h2>
+
+  <div class="card">
+    <h3>Azure Active Directory </h3>
+    <a class="button" href="https://github.com/kvnhamzai/KevinsTechPortfolio/blob/main/Azure%20active%20directory%20project-2.pdf" target="_blank">
+      View Project
+    </a>
+  </div>
+
+  <div class="card">
+    <h3>Cisco Network Configure Project</h3>
+    <a class="button" href="https://github.com/kvnhamzai/KevinsTechPortfolio/blob/main/%20Configure%20and%20Test%20Basic%20Network%20Connectivity.pdf" target="_blank">
+      View Project
+    </a>
+  </div>
+
+  <div class="card">
+    <h3>IT Ticket Management</h3>
+    <a class="button" href="https://github.com/kvnhamzai/KevinsTechPortfolio/blob/main/IT%20Ticket%20Management%20typeform.pdf" target="_blank">
+      View Project
+    </a>
+  </div>
+
+</div>
+
+
+</body>
+</html>
+
 <section>
-  <h2>All AWS Projects</h2>
-  <a href="https://learn.nextwork.org/encouraged_azure_smart_acerola/portfolio" target="_blank" class="project-link">View Projects</a>
+  <h2>AWS Cloud Projects</h2>
+  <a href="https://learn.nextwork.org/encouraged_azure_smart_acerola/portfolio" target="_blank" class="project-link">View 
+    Projects</a>
+ <!DOCTYPE html>
+
+
+  
   <section>
-    <h2>Projects</h2>
+    <h2> Cyber Security Projects</h2>
     <div class="project-grid">
       <div class="project-card">
         <h3>Honeypot Project</h3>
         <a href="Honeypot lab-3.pdf" target="_blank">View Project</a>
       </div>
       <div class="project-card">
-        <h3>Azure Directory Project</h3>
-        <a href="https://github.com/keviswicked/KevinCyberPortfolio/blob/main/Ethical%20Hacking%20and%20Cybersecurity%20Coursework/Azure%20directory%20project.pdf" target="_blank">View Project</a>
-      </div>
       <div class="project-card">
-        <h3>Cybersecurity Job Simulation</h3>
-        <a href="https://github.com/keviswicked/KevinCyberPortfolio/blob/main/Ethical%20Hacking%20and%20Cybersecurity%20Coursework/Cyber%20security%20job%20simulation.pdf" target="_blank">View Project</a>
       </div>
       <div class="project-card">
         <h3>Phishing Simulation Project</h3>
@@ -28,9 +57,6 @@
       </div>
     </div>
   </section>
-
-  <section>
-    <h2>Ethical Hacking Projects</h2>
     <div class="project-grid">
       <div class="project-card">
         <h3>OSINT Tools</h3>
