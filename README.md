@@ -2,7 +2,7 @@
 
   <div class="card">
     <h3>Azure Active Directory </h3>
-    <a class="button" href="https://github.com/kvnhamzai/KevinsTechPortfolio/blob/main/Azure%20active%20directory%20project-2.pdf" target="_blank">
+    <a class="button" href="Azure active directory project.pdf" target="_blank">
       View Project
     </a>
   </div>
