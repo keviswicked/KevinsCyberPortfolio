@@ -8,7 +8,8 @@
       <h3 style="color:#7CFC98;">Active Directory</h3>
       <p style="color:#ccc;">
       </p>
-      <a href="./active-directory.pdf" target="_blank"
+      <a href="<a href="active-directory.pdf" target="_blank">View Project</a>
+" target="_blank"
          style="display:inline-block; margin-top:10px; padding:10px 15px; background:#7CFC98; color:black; text-decoration:none; border-radius:8px; font-weight:bold;">
          View Project
       </a>
