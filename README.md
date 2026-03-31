@@ -17,7 +17,7 @@ View Project
 
   <div class="card">
     <h3>IT Ticket Management</h3>
-    <a class="button" href="https://github.com/kvnhamzai/KevinsTechPortfolio/blob/main/IT%20Ticket%20Management%20typeform.pdf" target="_blank">
+    <a class="button" href="ITTicketManagementtypeform.pdf" target="_blank">
       View Project
     </a>
   </div>
