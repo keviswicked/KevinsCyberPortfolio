@@ -1,5 +1,5 @@
  <h2>Help Desk Projects</h2>
- <section id="projects" style="max-width: 1000px; margin: 60px auto; padding: 20px;">
+<section id="projects" style="max-width: 1000px; margin: 60px auto; padding: 20px;">
   <h2 style="text-align:center; color:#7CFC98; font-size: 32px;">Projects</h2>
 
   <div style="display: grid; gap: 20px; margin-top: 30px;">
@@ -8,8 +8,7 @@
       <h3 style="color:#7CFC98;">Active Directory</h3>
       <p style="color:#ccc;">
       </p>
-      <a href="<a href="active-directory.pdf" target="_blank">View Project</a>
-" target="_blank"
+      <a href="active-directory.pdf" target="_blank"
          style="display:inline-block; margin-top:10px; padding:10px 15px; background:#7CFC98; color:black; text-decoration:none; border-radius:8px; font-weight:bold;">
          View Project
       </a>
@@ -19,7 +18,7 @@
       <h3 style="color:#7CFC98;">IT Ticket Management</h3>
       <p style="color:#ccc;">
       </p>
-      <a href="./it-ticket-management.pdf" target="_blank"
+      <a href="it-ticket-management.pdf" target="_blank"
          style="display:inline-block; margin-top:10px; padding:10px 15px; background:#7CFC98; color:black; text-decoration:none; border-radius:8px; font-weight:bold;">
          View Project
       </a>
@@ -29,13 +28,15 @@
       <h3 style="color:#7CFC98;">Configure and Test Network Connectivity</h3>
       <p style="color:#ccc;">
       </p>
-      <a href="./network-connectivity.pdf" target="_blank"
+      <a href="network-connectivity.pdf" target="_blank"
          style="display:inline-block; margin-top:10px; padding:10px 15px; background:#7CFC98; color:black; text-decoration:none; border-radius:8px; font-weight:bold;">
          View Project
       </a>
     </div>
 
   </div>
+</section>
+
 </section>
 
 
