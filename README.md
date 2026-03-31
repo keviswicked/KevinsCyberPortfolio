@@ -1,6 +1,6 @@
  <h2>Help Desk Projects</h2>
 <section id="projects" style="max-width: 1000px; margin: 60px auto; padding: 20px;">
-  <h2 style="text-align:center; color:#7CFC98; font-size: 32px;">Projects</h2>
+  <h2 style="text-align:center; color:#7CFC98; font-size: 32px;"
 
   <div style="display: grid; grid-template-columns: 1fr; gap: 20px; margin-top: 30px;">
     <div style="background:#111; padding:20px; border-radius:12px; border:1px solid #2a2a2a;">
